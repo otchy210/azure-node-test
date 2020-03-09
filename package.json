@@ -1,0 +1,22 @@
+{
+  "name": "azure-node-test",
+  "version": "1.0.0",
+  "description": "testing Azure node from Visual Studio Online",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otchy210/azure-node-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otchy210/azure-node-test/issues"
+  },
+  "homepage": "https://github.com/otchy210/azure-node-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
