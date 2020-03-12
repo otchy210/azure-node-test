@@ -42,3 +42,8 @@ Once you start listing certain port, Azure detects the port and configure port f
 Next time you update your master branch, the Web App will automatically capture it and update itself.
 
 ## Fantastic! However, I want to use my own domain, rather than *.azurewebsites.net
+
+- The official doc
+    - [Configure a custom domain name in Azure App Service with Traffic Manager integration](https://docs.microsoft.com/en-us/azure/app-service/configure-domain-traffic-manager)
+- SSL
+    - [Secure a custom DNS name with an SSL binding in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-bindings)
